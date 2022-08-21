@@ -1,0 +1,15 @@
+{
+  "short_name": "Athersphere",
+  "name": "See Lotto Max Lotto 649 winning numbers, next draw (outstanding countdown clock in real-time) and Jackpot prize. More on BC49, Ontario49, Daily Grand and Mega Dice, Play with your 1-2-3 favourite numbers",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
