@@ -41,8 +41,8 @@ dist
 yarn.lock
 
 .next
-next/.next
-nextt/.next
-nexttt/.next
+next/.next/
+nextt/.next/
+nexttt/.next/
 
 report.**.json
