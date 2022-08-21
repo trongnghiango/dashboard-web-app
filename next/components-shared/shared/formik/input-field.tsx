@@ -45,13 +45,13 @@ const InputField = ({
 }) => {
   return (
     <div
-      className={classNames("mb-2", disabled ? "opacity-50" : "", wrapperClass)}
+      className={classNames("mb-4", disabled ? "opacity-50" : "", wrapperClass)}
     >
       {labelName && (
         <label
           htmlFor={inputName}
           className={classNames(
-            "font-light text-sm px-1 capitalize flex items-center gap-1",
+            "font-light text-sm px-1 capitalize flex items-center gap-1 mb-1",
             haveErrors ? "text-danger" : "",
             lableClass
           )}
