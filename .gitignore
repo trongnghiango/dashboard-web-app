@@ -42,7 +42,7 @@ yarn.lock
 
 .next
 next/.next
-_next/.next
-__next/.next
+next_/.next
+next__/.next
 
 report.**.json
